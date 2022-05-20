@@ -62,8 +62,8 @@
     /*Exercise 17a*/
     @media screen and (max-width:1000px){
       .video-title{
-        font-size: 16px;
-        line-height: 24px;
+        font-size: 14px;
+        line-height: 20px;
       }
       p{
         font-size: 14px;
